@@ -1,4 +1,3 @@
-
 .category-container {
   min-width: 30%;
   height: 240px;
@@ -47,12 +46,12 @@
     position: absolute;
     h2 {
       font-weight: bold;
-      margin: 0 6px 0;
+      margin: 6px 6px 6px;
       font-size: 22px;
       color: #4a4a4a;
     }
     p {
-      font-weight: lighter;
+      margin: 0;
       font-size: 16px;
     }
   }
